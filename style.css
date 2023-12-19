@@ -1,0 +1,7 @@
+.div{
+    display: flex;
+    flex-direction: row;
+    background-color: blue;
+    padding: 10px;
+    margin: 50px;
+}
